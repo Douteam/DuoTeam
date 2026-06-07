@@ -22,8 +22,7 @@ https://aurora-grand-hotel.netlify.app/
 ### Liffey Blade Dublin
 https://liffeybladedublin.netlify.app/
 
-### Business Website
-https://fancy-profiterole-f1bd27.netlify.app/
+
 
 ## Tech Stack
 
