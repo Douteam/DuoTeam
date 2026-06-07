@@ -2,25 +2,38 @@
 
 > Two minds. One codebase.
 
-## About
+## About Us
 
-DuoTeam is focused on building clean, reliable and modern software.
+DuoTeam is a web development team focused on creating modern, responsive and professional websites.
+
+## Services
+
+- Business Websites
+- Landing Pages
+- Portfolio Websites
+- Responsive Design
+- Website Maintenance
+
+## Featured Projects
+
+### Aurora Grand Hotel
+https://aurora-grand-hotel.netlify.app/
+
+### Liffey Blade Dublin
+https://liffeybladedublin.netlify.app/
+
+### Business Website
+https://fancy-profiterole-f1bd27.netlify.app/
 
 ## Tech Stack
 
-- Python
+- HTML
+- CSS
 - JavaScript
-- TypeScript
-- Node.js
-- React
-- Docker
-
-## Goals
-
-- Build useful software
-- Create open-source projects
-- Learn and improve every day
 
 ## Contact
 
-- Telegram: https://t.me/duoteam0110
+Email: duoteam.0110@gmail.com
+
+Telegram:
+https://t.me/duoteam0110
