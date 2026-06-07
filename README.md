@@ -4,7 +4,7 @@
 
 ## About Us
 
-DuoTeam is a web development team focused on creating modern, responsive and professional websites.
+ DuoTeam is a web development team focused on creating modern, responsive and professional websites for businesses and personal brands.
 
 ## Services
 
