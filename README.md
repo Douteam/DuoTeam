@@ -16,6 +16,9 @@
 
 ## Featured Projects
 
+### Pinky Roll 
+https://pinky-roll-demo.netlify.app/
+
 ### Aurora Grand Hotel
 https://aurora-grand-hotel.netlify.app/
 
@@ -36,3 +39,6 @@ Email: duoteam.0110@gmail.com
 
 Telegram:
 https://t.me/duoteam0110
+
+Instagram:
+https://www.instagram.com/duoteam0110?igsh=Y3F0NGI1NXg3ZTM3
